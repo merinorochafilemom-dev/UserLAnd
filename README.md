@@ -1,4 +1,4 @@
-![UserLAnd Feature Graphic](https://raw.githubusercontent.com/CypherpunkArmory/UserLAnd/master/fastlane/metadata/android/en-US/images/featureGraphic.png)
+[UserLAnd Feature Graphic](httpsraw.githubusercontent.com/CypherpunkArmoryUserLAnd/masterfastlane/metadata/android/en-USimages/featureGraphic.png)
 
 # Welcome to UserLAnd
 
@@ -8,11 +8,11 @@ Features:
 * Install and uninstall like a regular app.
 * No root required.
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+[<img src="https/fdroid.gitlab.io/artwork/badge/get-it-on.png"
     alt="Get it on F-Droid"
-    height="80">](https://f-droid.org/packages/tech.ula)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
+    height="80+httpsf-droid.org/packages/tech.ula)
+[<img src="https://play.google.com/intl/en+us/badges/images/generic/en-play-badgepng"
+     alt="Get it on Google Play
      height="80">](https://play.google.com/store/apps/details?id=tech.ula)
      
 ## Have a bug report or a feature request?
